@@ -3,6 +3,12 @@ Sandhiya
 
 Hello sandy
 
+<<<<<<< Updated upstream
 
 new one added
 good morning
+=======
+good morning
+
+Hello Gowtham
+>>>>>>> Stashed changes
